@@ -5,8 +5,6 @@ import javax.swing.JFrame;
 public class Main {
 
 	public static void main(String[] args) {
-		
-		// this is the development branch
 
 		JFrame window = new JFrame("chess");
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
